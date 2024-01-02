@@ -1,1 +1,1 @@
-# Heart attack prediction usind K Nearest Neighborhood algorithm
+# Bank Loan Prediction using SVM
