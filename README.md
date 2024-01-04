@@ -1,1 +1,1 @@
-# Bank Loan Prediction using SVM
+# Bank Loan Prediction using SVM.
